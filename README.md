@@ -1,7 +1,3 @@
-An attractive README is crucial for making your project stand out. It should clearly explain what your app does, how to use it, and what technologies it uses.
-
-Here is a template for your "Private Vault" application. You can copy and paste this directly into a README.md file in your project's root directory and then customize it with your own details.
-
 My Vault 🔐
 Your Personal Photo and Video Sanctuary
 A secure and private photo and video gallery app built with Flutter. My Vault provides a safe space to store your sensitive media files, protected by a personal PIN. Keep your memories truly private and away from prying eyes.
