@@ -36,3 +36,12 @@ flutter pub get
 
 # Run the app
 flutter run
+```
+
+### 📱 Permissions
+
+The app requires the following permissions:
+
+📷 Camera – To capture new photos & videos.
+
+🗂️ Storage/Photos – To import media from your gallery.
