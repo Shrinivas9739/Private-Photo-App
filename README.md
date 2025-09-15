@@ -45,3 +45,24 @@ The app requires the following permissions:
 📷 Camera – To capture new photos & videos.
 
 🗂️ Storage/Photos – To import media from your gallery.
+
+
+### 🛠️ Tech Stack
+
+**Flutter** – UI toolkit
+
+**Dart** – Programming language
+
+**permission_handler** – Manage device permissions
+
+**sqflite** – Local database for storing PIN
+
+**path_provider** – Secure storage paths
+
+
+### 💡 Future Plans
+
+✅ Biometric Authentication (Fingerprint / Face ID)
+✅ Password Recovery Options
+✅ Media Organization into Folders / Albums
+✅ Dark Mode Theme
