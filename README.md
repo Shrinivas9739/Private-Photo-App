@@ -59,6 +59,7 @@ The app requires the following permissions:
 
 **path_provider** – Secure storage paths
 
+---
 
 ### 💡 Future Plans
 
