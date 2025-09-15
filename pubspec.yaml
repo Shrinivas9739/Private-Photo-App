@@ -1,0 +1,46 @@
+name: private_photo
+description: "A new Flutter project."
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+version: 1.0.0
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_secure_storage: ^9.0.0
+  crypto: ^3.0.3
+  permission_handler: ^12.0.1
+  image_picker: ^1.0.7
+  video_player: ^2.8.6
+  video_thumbnail: ^0.5.3
+  file_picker: ^10.3.3
+  flutter_launcher_icons: ^0.13.1
+  cupertino_icons: ^1.0.8
+  sqflite: ^2.4.2
+  photo_manager: ^3.7.1
+  path_provider: ^2.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/icon/images.png
+
+# Flutter launcher icons configuration
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/images.png"
