@@ -63,7 +63,7 @@ The app requires the following permissions:
 
 ### 💡 Future Plans
 
--✅ Biometric Authentication (Fingerprint / Face ID)
--✅ Password Recovery Options
--✅ Media Organization into Folders / Albums
--✅ Dark Mode Theme
+- ✅ Biometric Authentication (Fingerprint / Face ID)
+- ✅ Password Recovery Options
+- ✅ Media Organization into Folders / Albums
+- ✅ Dark Mode Theme
