@@ -87,7 +87,7 @@ class DBHelper {
     var database = await db;
     return await database.insert('media', {
       'path': path,
-      'type': type, // "photo" or "video"
+      'type': type,
       'addedAt': DateTime.now().toIso8601String(),
     });
   }
